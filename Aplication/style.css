@@ -1,0 +1,57 @@
+*{
+    margin: 0;  
+}
+
+#cabecalho{
+    border: 45px solid aquamarine;
+}
+
+
+
+.boder-conteiner{
+    border: 1px solid black;
+    width: 20pc;
+    height: 30pc;
+    margin: 1pc 32pc;
+    background-color: rgba(70, 70, 215, 0.904);
+}
+
+.padding-conteiner{
+    border: 4px solid #000;
+    height: 100px;
+    background-color: #000;
+    display: flex;
+}
+
+.tela-calc{
+    /* Posição*/
+    margin: 13px 13px;
+
+    /*Formato*/
+    border: 2px solid #ccc;
+    height: 65px;
+    width: 18pc;
+    border-radius: 5px;
+    background-color: #ccc;
+}
+
+
+
+/*Buttons*/
+.buttons{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    background-color: #ccc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.buttons:hover{
+    background-color: #7d7b7b;
+}
+
+
+
+/*Ids Buttons*/
+
